@@ -1,0 +1,26 @@
+
+public class IfForReturnExamples {
+	
+	//return example
+	int square(int i) {
+	    return i * i;
+	}
+	
+	if (condition) { 
+		//statements; 
+		} 
+		if (condition) { 
+		//statements; 
+		} else { 
+		//statements; 
+		}
+		 if (condition) {
+		 	//statements; 
+		} else if (condition) { 
+		//statements; 
+		} else if (condition) { 
+		//statements; 
+		}
+
+
+}
